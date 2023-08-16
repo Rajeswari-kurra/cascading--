@@ -1,0 +1,77 @@
+/*class selector
+.external{
+	border: 3px solid orangered;
+	background-color:green;
+	color: yellow;
+	font-size: 25px;
+}
+/*element selector
+element selector
+
+p{
+	color: green;
+	font-size: 50px;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color:violet;
+}
+
+
+/* universal selector
+{
+	font-size: 40px;
+	font-family: cursive;
+	color: hotpink;*/
+}
+
+/*attribute selector
+input[type]{
+	color: maroon;
+}
+input[type="name"]{
+	color: orange;
+}
+input[type="number"]{
+	color: blue;
+}
+a[href]{
+	background-color:yellow;
+}
+input[type="email"]{
+	color: violet;
+}
+img[src]{
+	size: 100px;
+}
+/*pseudo selector
+
+ pseudo selector
+a:link{
+	color:blue;
+}
+
+a:hover{
+	color:red;
+	font-size: 60px;
+}
+a:active{
+	color:yellow;
+}
+div{height: 300px;width: 200px;background-color:hotpink;}
+
+div:hover{
+	height: 200px;
+	width: 500px;
+	background-color: red;
+}
+a:visted{
+	 color:maroon ;*/
+
+ background
+body{
+	background-image: url('moon.jpg');
+	background-repeat: no-repeat;
+		background-size: cover;
+}
